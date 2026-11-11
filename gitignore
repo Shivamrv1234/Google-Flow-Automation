@@ -1,0 +1,18 @@
+# Script state and output (personal to each user)
+flow_progress.json
+flow_teach.json
+missing.txt
+flow_error_*.png
+prompts.txt
+
+# Downloaded images
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
